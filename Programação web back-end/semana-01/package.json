@@ -1,0 +1,17 @@
+{
+  "name": "biblioteca-http",
+  "version": "1.0.0",
+  "description": "Exemplo didático de arquitetura HTTP cliente-servidor com Node.js.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "http",
+    "cliente-servidor",
+    "biblioteca"
+  ],
+  "author": "",
+  "license": "MIT"
+}
