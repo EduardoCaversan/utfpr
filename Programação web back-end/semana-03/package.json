@@ -1,0 +1,10 @@
+{
+  "name": "agenda-eventos",
+  "version": "1.0.0",
+  "description": "API didática sobre programação server-side e respostas HTTP",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC"
+}
