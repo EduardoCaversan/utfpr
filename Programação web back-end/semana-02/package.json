@@ -1,0 +1,10 @@
+{
+  "name": "rastreamento-encomendas",
+  "version": "1.0.0",
+  "description": "API didática sobre HTTP com Node.js nativo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC"
+}
