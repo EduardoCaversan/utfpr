@@ -1,0 +1,10 @@
+{
+  "name": "carrinho-sessao",
+  "version": "1.0.0",
+  "description": "Aplicação didática de cookies e sessões com Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC"
+}
