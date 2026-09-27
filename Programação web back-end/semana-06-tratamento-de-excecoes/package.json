@@ -1,0 +1,10 @@
+{
+  "name": "semana-06-tratamento-de-excecoes",
+  "version": "1.0.0",
+  "description": "Atividade didatica sobre tratamento de excecoes em Node.js.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "ISC"
+}
