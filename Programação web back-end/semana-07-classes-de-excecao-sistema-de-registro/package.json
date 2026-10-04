@@ -1,0 +1,14 @@
+{
+  "name": "semana-07-classes-de-excecao-sistema-de-registro",
+  "version": "1.0.0",
+  "description": "Atividade didática sobre classes de exceção e registro de usuários em Node.js.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "ISC"
+}
