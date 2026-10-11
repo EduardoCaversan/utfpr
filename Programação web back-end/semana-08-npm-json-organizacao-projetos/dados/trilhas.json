@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Caminho das Araucárias",
+    "dificuldade": "facil",
+    "distanciaKm": 3.2,
+    "local": "Parque do Pinhal"
+  },
+  {
+    "id": 2,
+    "nome": "Subida da Pedra Clara",
+    "dificuldade": "moderada",
+    "distanciaKm": 7.5,
+    "local": "Serra do Cedro"
+  },
+  {
+    "id": 3,
+    "nome": "Travessia do Vale Alto",
+    "dificuldade": "dificil",
+    "distanciaKm": 12.3,
+    "local": "Vale das Nuvens"
+  },
+  {
+    "id": 4,
+    "nome": "Volta da Lagoa Verde",
+    "dificuldade": "facil",
+    "distanciaKm": 2.8,
+    "local": "Lagoa Verde"
+  }
+]
